@@ -7,4 +7,5 @@ Heroes/Villains Included Are From Various IP's Including But Not Limited To:
 - STAR WARS
 - STAR TREK
 - DRAGON BALL Z (ANIME)
+- HEROES (TV)
 - PROTOTYPE (VIDEO GAME)
